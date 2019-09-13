@@ -1,4 +1,4 @@
-# People Detection and a HeatMap
+# People Detection with Heat Map
 This application is based off of the [Store Aisle Monitor Python](https://github.com/intel-iot-devkit/store-aisle-monitor-python). However, this implementation does not require Azure cloud storage. This is so that users who 
 don't have an Azure account can easily and quickly run and demonstrate or use this application. 
 
